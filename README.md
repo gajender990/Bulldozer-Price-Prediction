@@ -15,8 +15,7 @@ Overview of Project:
 This machine learning project with the goal of predicting the sale price of bulldozers. 
 
 2. Data
-Dataset is present in dataset folder
-or you can download it from: https://www.kaggle.com/c/bluebook-for-bulldozers/data
+Dataset can be downloaded from: https://www.kaggle.com/c/bluebook-for-bulldozers/data
 
 3. Evaluation:
 For evaluation we are going to use RMSLE (root mean squared log error)
